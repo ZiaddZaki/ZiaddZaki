@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Ziad Mahmoud
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="300" />
-</p>
-
 
 🚀 **Front-End Developer** | 🎓 Computer Science Student at FCIS  
 👨‍💻 Passionate about crafting clean, responsive, and user-friendly interfaces  
 📍 Based in Port Said, Egypt  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400" />
+</p>
 
 ---
 
