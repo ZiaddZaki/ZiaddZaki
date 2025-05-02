@@ -45,10 +45,3 @@
 - 📧 ziad.mahmoud151@gmail.com  
 
 ---
-
-### ⚡ Fun Fact
-I’m 187cm tall, I’ve been training for a year (still skipping the diet 😅), and I love clean code as much as clean UI.
-
----
-
-> “Design isn’t just what it looks like and feels like. Design is how it works.” — Steve Jobs
