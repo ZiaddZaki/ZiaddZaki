@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="600" />
+</p>
+
 ## Hi there 👋 I'm Ziad Mahmoud
 
 🚀 **Front-End Developer** | 🎓 Computer Science Student at FCIS  
@@ -9,28 +13,30 @@
 ### 💼 What I Do
 - ⚛️ Building modern web apps with **React.js**
 - 🎨 Styling with **Tailwind CSS** and clean responsive layouts
-- 🧩 Working with **.NET MVC** on full-stack projects
-- 💻 Comfortable with **HTML, CSS, JavaScript, C++, and Python**
+- 🧠 Problem solving using **C++** and **Python**
+- 💻 Strong foundation in **HTML, CSS, and JavaScript**
 
 ---
 
 ### 🛠️ Projects I've Worked On
-- **Clothing Store Management System** (Graduation Project)  
-  🔹 Built using .NET MVC — focused on managing products, orders, and user roles
-
 - **Travel Dealer** (College Project)  
-  🔹 Designed front-end layouts for an intuitive travel booking platform  
-  🔹 Handled both UI/UX and back-end DB logic (without API integration)
+  🔹 Designed a user-friendly interface to simplify travel bookings  
+  🔹 Focused on layout structure and user experience
 
-- **Car Maintenance System**  
-  🔹 Structured views and user interactions with Razor + .NET
+- **Personal UI Components Library** *(Ongoing)*  
+  🔹 Built a reusable set of styled React components with Tailwind  
+  🔹 Aims to speed up development and maintain design consistency
+
+- **Responsive Portfolio Website**  
+  🔹 Showcased my projects, skills, and contact info  
+  🔹 Fully responsive, built with React & Tailwind
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced React patterns & hooks  
-- TypeScript for scalable front-end projects  
-- Clean architecture and testing best practices
+- Advanced React (Hooks, Context API, Performance optimization)  
+- TypeScript for scalable front-end apps  
+- Framer Motion for interactive animations
 
 ---
 
@@ -45,4 +51,4 @@ I’m 187cm tall, I’ve been training for a year (still skipping the diet 😅)
 
 ---
 
-> “The best UIs are the ones users don’t think about — just use.”  
+> “Design isn’t just what it looks like and feels like. Design is how it works.” — Steve Jobs
