@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ziad-mahmoud151)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/ziad-mahmoud151](https://www.linkedin.com/in/ziadzaki1/))  
 - 📧 ziad.mahmoud151@gmail.com  
 
 ---
