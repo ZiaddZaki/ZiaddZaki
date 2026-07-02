@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ziad Mahmoud
 
-🚀 **Front-End Developer** | 🎓 Computer Science Student at FCIS  
+🚀 **Full Stack Developer** | 🎓 Computer Science Student at FCIS  
 👨‍💻 Passionate about crafting clean, responsive, and user-friendly interfaces  
 📍 Based in Port Said, Egypt  
 
